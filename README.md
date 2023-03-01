@@ -19,5 +19,5 @@ located in the ./modules/ path
 - `sudo make destroy`
 
 ## expected results
-- public EC2 created hosting nginx welcome page on port 80
+- created public EC2 hosting nginx welcome page on port 80
 - automated configuration by ansible
